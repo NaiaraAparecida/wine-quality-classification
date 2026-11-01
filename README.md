@@ -128,9 +128,7 @@ Python · pandas · numpy · matplotlib · seaborn · scikit-learn
 
 ## 📎 Entregáveis
 
-| Entregável | Link |
-|---|---|
-| Repositório (código) | Este repositório |
-| Relatório Executivo | https://1drv.ms/w/c/d6ce280d686b6ca1/IQBqJF_pmD-5Sri0_OOiHW7sATAahrnbPqu21PurQySTD0w?e=GrJf96 |
-| Apresentação | https://docs.google.com/presentation/d/1CqaVUv0SDeUk7jDp4Qo644ylC_7mpG8IbliOqamzOGE/edit?usp=sharing |
-| Vídeo (5 min) | https://www.youtube.com/watch?v=x6ygUTEjToc |
+- **Repositório (código):** este repositório
+- **Relatório Executivo:** https://1drv.ms/w/c/d6ce280d686b6ca1/IQBqJF_pmD-5Sri0_OOiHW7sATAahrnbPqu21PurQySTD0w?e=GrJf96
+- **Apresentação:** https://docs.google.com/presentation/d/1CqaVUv0SDeUk7jDp4Qo644ylC_7mpG8IbliOqamzOGE/edit?usp=sharing
+- **Vídeo (5 min):** https://www.youtube.com/watch?v=x6ygUTEjToc
